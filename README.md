@@ -10,6 +10,7 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
 - ⚡ Fun fact: I also like to do digital drawing and painting.
 
 ---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/sergio-gabriel-reza-chavarria/" target="_blank">
@@ -24,6 +25,7 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
 </p>
 
 ---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ResergeDXVS&label=Profile%20views&color=0e75b6&style=flat" alt="ResergeDXVS" /> </p>
 
 ---
@@ -43,7 +45,8 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
 ---
 
 <h3 align="center">Languages and Tools:</h3>
-<table width="100%">
+<div align="center">
+<table width="auto" border="1" cellspacing="0" cellpadding="10">
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python,django,java,nodejs,c"/></td>
@@ -77,8 +80,10 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
         <td><img height="40" src="https://skillicons.dev/icons?i=obsidian,blender,postman,powershell,sublime,vim,vscode"/></td>
     </tr>
 </table>
+</div>
 
 ---
+
 <h3 align="left">Projects:</h3>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="10" >
@@ -209,6 +214,8 @@ Includes a structured product layout, styled components, and interactive feature
     <td><a href="https://github.com/ResergeDXVS/ecommerce_practice" target="_blank">GitHub Link</a></td>
   </tr>
 </table>
+
 ---
+
 [ResergeDXVS](https://github.com/ResergeDXVS)  
 27/09/2026
