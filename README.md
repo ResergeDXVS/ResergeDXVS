@@ -30,15 +30,9 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
 
 ---
 
-<div align="center">
-  <a href="https://github.com/ResergeDXVS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ResergeDXVS&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ResergeDXVS"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ResergeDXVS&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ResergeDXVS"/>
-  </a>
-</div>
 <p align="center">
   <a href="https://github.com/ResergeDXVS">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ResergeDXVS&&theme=tokyonight" alt="ResergeDXVS" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ResergeDXVS&theme=tokyonight" alt="ResergeDXVS" />
   </a>
 </p>
 
@@ -57,11 +51,11 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Databases:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,oracle,sqlite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,azure,linux,databricks"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,azure,linux"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Testing:</td>
@@ -77,10 +71,15 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px;">Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=obsidian,blender,postman,powershell,sublime,vim,vscode"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=obsidian,blender,postman,powershell,sublime,vim,vscode,anaconda"/></td>
     </tr>
 </table>
 </div>
+
+<div align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ResergeDXVS&theme=tokyonight&langs_count=8"/>
+</div>
+
 
 ---
 
