@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hello 🌎, I'm Sergio Gabriel Reza Chavarría
+<h1 align="center">Hello 🌎, I'm Sergio Gabriel Reza Chavarria</h2>
 
 I’m a Full Stack Developer from Mexico City with experience designing and building process automation software, ERP modules, and modern web applications. Skilled in **Python, Django, Odoo ERP, React, and JavaScript**, I thrive in creating efficient solutions that improve workflows, optimize financial processes, and deliver clear, functional interfaces for users. Passionate about continuous learning, collaboration, and driving technological innovation. 🚀
 
@@ -11,18 +11,19 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/sergio-gabriel-reza-chavarria/" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    <a href="https://www.linkedin.com/in/sergio-gabriel-reza-chavarria/" target="_blank" style="margin: 0 15px;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" />
     </a>
-    <a href="https://github.com/ResergeDXVS" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+    <a href="https://github.com/ResergeDXVS" target="_blank" style="margin: 0 15px;">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="60" />
     </a>
-    <a href="mailto:sergiogrezach@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+    <a href="mailto:sergiogrezach@gmail.com" target="_blank" style="margin: 0 15px;">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="60" />
     </a>
 </p>
+
 
 ---
 
@@ -38,72 +39,72 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <div align="center">
 <table width="auto" border="1" cellspacing="0" cellpadding="10">
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Backend:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>Backend:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python,django,java,nodejs,c"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Frontend:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>Frontend:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=react,redux,html,css,sass,bootstrap,tailwind,ts,js,jquery"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Databases:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>Databases:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">DevOps:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>DevOps:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,azure,linux"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Testing:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>Testing:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=jest,selenium,react"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Version Control:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>Version Control:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Operating Systems:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>Operating Systems:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px;">Tools:</td>
+        <td style="font-weight: bold; padding-right: 10px;"><b>Tools:</b></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=obsidian,blender,postman,powershell,sublime,vim,vscode,anaconda"/></td>
     </tr>
 </table>
 </div>
 
 <div align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ResergeDXVS&theme=tokyonight&langs_count=8"/>
+    <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ResergeDXVS&theme=tokyonight&langs_count=8"/>
 </div>
 
 
 ---
 
-<h3 align="left">Projects:</h3>
+<h2 align="center">Projects</h2>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="10" >
   <tr>
     <td colspan="2"><b>GameDex - Ecommerce Project</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project focused on building an e‑commerce service for video game‑related products.
 Includes the implementation of a shopping cart, user registration and authentication, and the creation and selection of payment methods and shipping addresses, along with a sales tracking system. Using React and Redux for the Front End and Django for the Backend. Connected by react-router-dom</p></td>
   </tr>
   <tr>
-    <td>Repository Front End (React):</td>
+    <td><b>Repository Front End (React):</b></td>
     <td><a href="https://github.com/ResergeDXVS/game_dex_final_project" target="_blank">Front End GitHub Link</a></td>
   </tr>
   <tr>
-    <td>Repository Backend End:</td>
+    <td><b>Repository Backend End:</b></td>
     <td><a href="https://github.com/ResergeDXVS/backend-game-dex" target="_blank">Back End GitHub Link</a></td>
   </tr>
   <tr>
-    <td>Repository Front End (Vanilla JS):</td>
+    <td><b>Repository Front End (Vanilla JS):</b></td>
     <td><a href="https://github.com/ResergeDXVS/Hound_Express_Project" target="_blank">Front End GitHub Link</a></td>
   </tr>
 </table>
@@ -113,17 +114,17 @@ Includes the implementation of a shopping cart, user registration and authentica
     <td colspan="2"><b>Hound Express - Package Management Page</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project developed for Hound Express to manage parcel logistics.
 Features include package registration, status updates, shipment history tracking, and data visualization of managed packages.
 The frontend was built with React and TypeScript, while the backend was implemented using Django, ensuring a robust and scalable architecture.</p></td>
   </tr>
   <tr>
-    <td>Repository Front End:</td>
+    <td><b>Repository Front End:</b></td>
     <td><a href="https://github.com/ResergeDXVS/HOUND_EXPRESS_v2" target="_blank">Front End GitHub Link</a></td>
   </tr>
   <tr>
-    <td>Repository Backend End:</td>
+    <td><b>Repository Backend End:</b></td>
     <td><a href="https://github.com/ResergeDXVS/HOUND_EXPRESS_BACKEND" target="_blank">Back End GitHub Link</a></td>
   </tr>
 </table>
@@ -133,12 +134,12 @@ The frontend was built with React and TypeScript, while the backend was implemen
     <td colspan="2"><b>RoboPal — First Chatbot</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project focused on developing a first chatbot prototype, designed to handle sending and receiving messages while providing a user‑friendly visual interface.
 Implemented using HTML, SCSS, and JavaScript, with emphasis on responsive design and interactive communication flow. </p></td>
   </tr>
   <tr>
-    <td>Repository:</td>
+    <td><b>Repository:</b></td>
     <td><a href="https://github.com/ResergeDXVS/first_chatbot" target="_blank">GitHub Link</a></td>
   </tr>
 </table>
@@ -148,12 +149,12 @@ Implemented using HTML, SCSS, and JavaScript, with emphasis on responsive design
     <td colspan="2"><b>GameDex's Landing Page</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project focused on designing a Landing Page for the GameDex platform, aimed at creating engaging visual processes for e‑commerce.
 Developed with a strong emphasis on UI/UX design to highlight products, promotions, and user interaction, ensuring a clear and attractive presentation for online sales.</p></td>
   </tr>
   <tr>
-    <td>Repository:</td>
+    <td><b>Repository:</b></td>
     <td><a href="https://github.com/ResergeDXVS/landing_page_practice" target="_blank">GitHub Link</a></td>
   </tr>
 </table>
@@ -163,12 +164,12 @@ Developed with a strong emphasis on UI/UX design to highlight products, promotio
     <td colspan="2"><b>Alexandria Music Library - React API Request Project</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project focused on building a music information search platform, designed to provide details about artists, songs, and albums.
 Developed using React and integrated with the TheAudioDB API, enabling dynamic queries and real‑time display of music data.</p></td>
   </tr>
   <tr>
-    <td>Repository:</td>
+    <td><b>Repository:</b></td>
     <td><a href="https://github.com/ResergeDXVS/alexandria_music_library" target="_blank">GitHub Link</a></td>
   </tr>
 </table>
@@ -178,12 +179,12 @@ Developed using React and integrated with the TheAudioDB API, enabling dynamic q
     <td colspan="2"><b>TV WIZARD - API Request Project</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project focused on building a TV show information platform, designed to provide details about programs, episodes, and related data.
 Developed using HTML, SCSS, and JavaScript, and integrated with the TVMaze API to enable dynamic queries and real‑time display of television content.</p></td>
   </tr>
   <tr>
-    <td>Repository:</td>
+    <td><b>Repository:</b></td>
     <td><a href="https://github.com/ResergeDXVS/tv_guide_practice" target="_blank">GitHub Link</a></td>
   </tr>
 </table>
@@ -193,12 +194,12 @@ Developed using HTML, SCSS, and JavaScript, and integrated with the TVMaze API t
     <td colspan="2"><b>ReSergeDX's Art Portfolio - SCCS Project</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project focused on creating an art portfolio website for the Instagram account ResergeDX, designed to showcase original artwork and promote commission services.
 Includes a gallery of artworks, information about commission management, and a form for requesting custom commissions, providing a professional and accessible platform for potential clients.</p></td>
   </tr>
   <tr>
-    <td>Repository:</td>
+    <td><b>Repository:</b></td>
     <td><a href="https://github.com/ResergeDXVS/ResergeDX_art_portafolio" target="_blank">GitHub Link</a></td>
   </tr>
 </table>
@@ -208,12 +209,12 @@ Includes a gallery of artworks, information about commission management, and a f
     <td colspan="2"><b>VivaRopa- HTML, CSS and JS Project</b></td>
   </tr>
   <tr>
-    <td>Description:</td>
+    <td><b>Description:</b></td>
     <td><p>Project focused on creating a clothing catalog website, designed to practice and apply core concepts of HTML, SCSS, and JavaScript.
 Includes a structured product layout, styled components, and interactive features to simulate an e‑commerce browsing experience.</p></td>
   </tr>
   <tr>
-    <td>Repository:</td>
+    <td><b>Repository:</b></td>
     <td><a href="https://github.com/ResergeDXVS/ecommerce_practice" target="_blank">GitHub Link</a></td>
   </tr>
 </table>
