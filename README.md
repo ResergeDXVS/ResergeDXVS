@@ -126,7 +126,7 @@ The frontend was built with React and TypeScript, while the backend was implemen
 
 <table width="100%" border="1" cellspacing="0" cellpadding="10" >
   <tr>
-    <td colspan="2"><b>First Chatbot</b></td>
+    <td colspan="2"><b>RoboPal — First Chatbot</b></td>
   </tr>
   <tr>
     <td>Description:</td>
