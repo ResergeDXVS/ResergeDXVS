@@ -95,12 +95,16 @@ I’m a Full Stack Developer from Mexico City with experience designing and buil
 Includes the implementation of a shopping cart, user registration and authentication, and the creation and selection of payment methods and shipping addresses, along with a sales tracking system. Using React and Redux for the Front End and Django for the Backend. Connected by react-router-dom</p></td>
   </tr>
   <tr>
-    <td>Repository Front End:</td>
+    <td>Repository Front End (React):</td>
     <td><a href="https://github.com/ResergeDXVS/game_dex_final_project" target="_blank">Front End GitHub Link</a></td>
   </tr>
   <tr>
     <td>Repository Backend End:</td>
     <td><a href="https://github.com/ResergeDXVS/backend-game-dex" target="_blank">Back End GitHub Link</a></td>
+  </tr>
+  <tr>
+    <td>Repository Front End (Vanilla JS):</td>
+    <td><a href="https://github.com/ResergeDXVS/Hound_Express_Project" target="_blank">Front End GitHub Link</a></td>
   </tr>
 </table>
 
